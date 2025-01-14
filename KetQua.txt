@@ -1,0 +1,49 @@
+7 11 14 15 15 15 16 18 18 20 
+22 22 23 23 25 26 26 26 27 27 
+28 28 29 29 30 30 31 31 32 32 
+33 33 35 35 35 36 36 36 37 37 
+40 41 41 42 47 48 52 57 58 60 
+63 70 72 73 79 85 95 111 127 147 
+
+Trung binh cuoc phi cua 60 sinh vien: 40.95
+-----------TAN SUAT CUA CUOC PHI-----------
+Cuoc phi 7 co tan suat la: 1
+Cuoc phi 11 co tan suat la: 1
+Cuoc phi 14 co tan suat la: 1
+Cuoc phi 15 co tan suat la: 3
+Cuoc phi 16 co tan suat la: 1
+Cuoc phi 18 co tan suat la: 2
+Cuoc phi 20 co tan suat la: 1
+Cuoc phi 22 co tan suat la: 2
+Cuoc phi 23 co tan suat la: 2
+Cuoc phi 25 co tan suat la: 1
+Cuoc phi 26 co tan suat la: 3
+Cuoc phi 27 co tan suat la: 2
+Cuoc phi 28 co tan suat la: 2
+Cuoc phi 29 co tan suat la: 2
+Cuoc phi 30 co tan suat la: 2
+Cuoc phi 31 co tan suat la: 2
+Cuoc phi 32 co tan suat la: 2
+Cuoc phi 33 co tan suat la: 2
+Cuoc phi 35 co tan suat la: 3
+Cuoc phi 36 co tan suat la: 3
+Cuoc phi 37 co tan suat la: 2
+Cuoc phi 40 co tan suat la: 1
+Cuoc phi 41 co tan suat la: 2
+Cuoc phi 42 co tan suat la: 1
+Cuoc phi 47 co tan suat la: 1
+Cuoc phi 48 co tan suat la: 1
+Cuoc phi 52 co tan suat la: 1
+Cuoc phi 57 co tan suat la: 1
+Cuoc phi 58 co tan suat la: 1
+Cuoc phi 60 co tan suat la: 1
+Cuoc phi 63 co tan suat la: 1
+Cuoc phi 70 co tan suat la: 1
+Cuoc phi 72 co tan suat la: 1
+Cuoc phi 73 co tan suat la: 1
+Cuoc phi 79 co tan suat la: 1
+Cuoc phi 85 co tan suat la: 1
+Cuoc phi 95 co tan suat la: 1
+Cuoc phi 111 co tan suat la: 1
+Cuoc phi 127 co tan suat la: 1
+Cuoc phi 147 co tan suat la: 1
