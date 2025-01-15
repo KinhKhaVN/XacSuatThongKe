@@ -1,6 +1,6 @@
 #include <iostream>
 #include "Menu.h"
-#include "Menu.cpp"
+#include "Binomial.h"
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
@@ -8,6 +8,9 @@ int main(int argc, char** argv) {
 	
 	Menu menu;
 	
+	menu.Print();
+	
+	Binomial bin;
 	
 	
 	return 0;
