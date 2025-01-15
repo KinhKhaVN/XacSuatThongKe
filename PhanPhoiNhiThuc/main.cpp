@@ -1,4 +1,5 @@
 #include <iostream>
+#include <iomanip>
 #include "Menu.h"
 #include "Binomial.h"
 
@@ -11,6 +12,21 @@ int main(int argc, char** argv) {
 	menu.Print();
 	
 	Binomial bin;
+	
+	int n, k;
+	double p;
+	std::cin >> n >> k >> p;
+	
+	bin.setN(n);
+	bin.setK(k);
+	bin.setP(p);
+	
+	std::cout << bin.getFraction(n) << '\n';
+	std::cout << bin.getC(n, k) << '\n';
+	
+//	std::setprecision(4);
+	
+	std::cout << "P(X = x) = " << bin.getProbability() << '\n';
 	
 	
 	return 0;
